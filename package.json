@@ -1,0 +1,26 @@
+﻿{
+  "name": "com.badcodenik.ecsmodule.input",
+  "version": "1.0.0",
+  "displayName": "Input",
+  "description": "Модуль для 1EasyEcs",
+  "unity": "2020.3",
+  "dependencies": {},
+  "keywords": [
+    "leoecslite",
+    "leoecs",
+    "ecs",
+    "performance",
+    "1easyecs",
+    "easyecsmodules",
+    "exerussus",
+    "badcodenik"
+  ],
+  "author": {
+    "name": "Badcodenik",
+    "email": "badcode.Nik@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badCodeNik/ecsmodule-input"
+  }
+}
